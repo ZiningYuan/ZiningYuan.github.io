@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-📄 [My CV is available here](../files/CV.pdf)
+📄 [My CV is available here](../files/ZiningYuanCV_0825_aca.pdf)
 
 {% include base_path %}
 
