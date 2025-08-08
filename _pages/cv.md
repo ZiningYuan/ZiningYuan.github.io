@@ -7,7 +7,11 @@ redirect_from:
   - /resume
 ---
 
-📄 [My CV is available here](../files/ZiningYuanCV_0825_aca.pdf)
+<p>
+  <a href="/files/ZiningYuanCV_0825_aca.pdf" target="_blank" class="btn" style="margin-bottom: 1em;">
+    📄 Download PDF Version
+  </a>
+</p>
 
 {% include base_path %}
 
