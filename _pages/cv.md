@@ -7,13 +7,15 @@ redirect_from:
   - /resume
 ---
 
+
+{% include base_path %}
+
+
 <p>
   <a href="/files/ZiningYuanCV_0825_aca.pdf" target="_blank" class="btn" style="margin-bottom: 1em;">
     📄 Download PDF Version
   </a>
 </p>
-
-{% include base_path %}
 
 Education
 ======
