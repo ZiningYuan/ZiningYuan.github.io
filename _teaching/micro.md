@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/microeconomics-5SSPP221
 venue: "King's College London, Department of Political Economy"
-date: Autumn 2025, Autumn 2024
+date: 2024-10-06
 location: "London, United Kingdom"
 ---
 
