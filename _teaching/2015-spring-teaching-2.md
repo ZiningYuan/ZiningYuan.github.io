@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial"
 permalink: /teaching/2015-spring-teaching-1
 venue: "King's College London, Department of Mathematics"
-date: 24/25 Fall
+date: 2024-10-06
 location: "London,UK"
 ---
 
