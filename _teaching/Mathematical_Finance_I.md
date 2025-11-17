@@ -2,7 +2,7 @@
 title: "KCL Mathematical Finance I"
 collection: teaching
 type: "Tutorial"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/matfin1
 venue: "King's College London, Department of Mathematics"
 date: 2024-10-06
 location: "London,UK"
