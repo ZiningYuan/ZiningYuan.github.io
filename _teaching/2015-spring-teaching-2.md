@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 2"
+title: "KCL Mathematical Finance I"
 collection: teaching
-type: "Workshop"
+type: "Tutorial"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "King's College London, Department of Mathematics"
+date: 24/25 Fall
+location: "London,UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
+Aims and learning outcomes:
 ======
+This module aims to model the evolution of asset prices using the methodology of no-arbitrage in complete markets. The binomial asset pricing model will be the (mathematically easy!) vehicle used to introduce (profound!) financial concepts and necessary probability notions. This facilitates an intuitive understanding of terminology, preparing the student for the continuous-time equivalent, as well as providing a powerful practical tool.
 
-Heading 3
+
+Syllabus:
 ======
+Asset price in discrete time, random walks, conditional expectation, elements of discrete-time martingale theory, the binomial asset pricing model, option pricing in discrete time, introduction to stochastic calculus, option pricing in continuous time.
+
+My roles:
+======
+I will upload some materials in due course.
