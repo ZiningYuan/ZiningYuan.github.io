@@ -1,7 +1,7 @@
 ---
 title: "Microeconomics"
 collection: teaching
-type: "Undergraduate course"
+type: "2nd-year Undergraduate course, seminar"
 permalink: /teaching/microeconomics-5SSPP221
 venue: "King's College London, Department of Political Economy"
 date: 2024-10-06
