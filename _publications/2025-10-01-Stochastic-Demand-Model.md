@@ -5,7 +5,7 @@ category: wip
 permalink: /publication/Stochastic-Demand-Modelling
 excerpt: 'This paper is about a stochastic model of UK National Half-hourly Electricity Demand.'
 date: 2025-10-01
-venue: 'Work in Progress'
+#venue: 'Work in Progress'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
