@@ -5,7 +5,7 @@ category: wip
 permalink: /publication/Climate-Transition-Risk
 excerpt: 'This paper is about the relationship between firms’ equity returns and potential changes in their profitability under a transition to net-zero emissions.'
 date: 2025-11-01
-venue: 'Work in Progress'
+#venue: 'Work in Progress'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
