@@ -25,20 +25,17 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June - December 2023: Quant Analytics Intern
+  * J.P.Morgan, London
+  * Duties include: Individual Research Project on 10-day Value-at-Risk calculation; firm-wide portfolio reports.
+  * Supervisor: Dobrin Petkov
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, R, Stata, Matlab, C++
+* Languages: Mandarin (Native), English (High Proficiency), French (Beginner)
+* Others: Piano (Diploma)
 
 Publications
 ======
@@ -52,6 +49,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Citizenship
 ======
-* Currently signed in to 43 different slack teams
+* Co-facilitated 2025 January, the Alan Turing Institute Data Study Group, C-DICE challenge: https://www.turing.ac.uk/news/publications/data-study-group-final-report-centre-postdoctoral-development-infrastructure
