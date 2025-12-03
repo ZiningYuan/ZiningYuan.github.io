@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Modelling of Electricity Demand\\on Multiple Time Scales"
+title: "Stochastic Modelling of Electricity Demand on Multiple Time Scales"
 collection: publications
 category: wip
 permalink: /publication/Stochastic-Demand-Modelling
