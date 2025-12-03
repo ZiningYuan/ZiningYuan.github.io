@@ -37,7 +37,7 @@ Skills
 * Languages: Mandarin (Native), English (High Proficiency), French (Beginner)
 * Others: Piano (Diploma)
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
