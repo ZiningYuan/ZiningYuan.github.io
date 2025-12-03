@@ -1,11 +1,15 @@
 ---
-title: "LSE Marketing Analytics"
+title: "KCL Mathematical Finance I"
 collection: teaching
-type: "Master, Coding Session"
-permalink: /teaching/mkt
-venue: "London School of Econonomics, Department of Management"
-date: 2025-10-06
+type: "3rd-year Undergraduate, Tutorial"
+permalink: /teaching/mathfin1
+venue: "King's College London, Department of Mathematics"
+date: 2024-10-06
 location: "London,UK"
 ---
 
-This course lays down the foundations of Marketing Analytics which is an absolute essential in the age of Big Data. The broad objective of this course is to provide a fundamental understanding of marketing analytics and research methods employed by well-managed firms. The course focuses on integrating problem formulation, research design, questionnaire construction, sampling, data collection and data analysis to yield the most valuable information. The course also examines the proper use of statistical applications as well as qualitative methods, with an emphasis on the interpretation and use of results. 
+This module aims to model the evolution of asset prices using the methodology of no-arbitrage in complete markets. The binomial asset pricing model will be the (mathematically easy!) vehicle used to introduce (profound!) financial concepts and necessary probability notions. This facilitates an intuitive understanding of terminology, preparing the student for the continuous-time equivalent, as well as providing a powerful practical tool.
+
+My roles:
+======
+I will upload some materials in due course.
