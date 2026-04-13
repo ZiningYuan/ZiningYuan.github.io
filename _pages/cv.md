@@ -12,7 +12,7 @@ redirect_from:
 
 
 <p>
-  <a href="/files/ZiningYuanCV_0825_aca.pdf" target="_blank" class="btn" style="margin-bottom: 1em;">
+  <a href="/files/ZiningYuan_CV_web.pdf" target="_blank" class="btn" style="margin-bottom: 1em;">
     📄 Download PDF Version
   </a>
 </p>
